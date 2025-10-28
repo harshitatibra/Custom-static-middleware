@@ -16,7 +16,6 @@ function static(staticpath){
             }
             console.log(files)
         })
-        // res.sendFile(path0)
     }
 }
 
